@@ -18,8 +18,18 @@ func main()  {
 	sum_result := sum(c, d)
 	fmt.Println(sum_result);
 
+	serial_print(sum_result);
+
 }
 
 func sum(a int, b int) int {
 	return a+b;
+}
+
+func serial_print(num int) int {
+	for i := 1; i<=num; i++ {
+		fmt.Println(i)
+	}
+
+	return 0;
 }
