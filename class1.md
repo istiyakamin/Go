@@ -13,3 +13,16 @@ Date: 07.02.2023
         - array 
         - stuct
         - map
+* How to decalre variable
+* ASCII code table
+
+
+
+## Summary
+Declare variable 
+ 
+
+## Key Notes
+
+## Task 
+* Write a code to print ASCII CODE Value
