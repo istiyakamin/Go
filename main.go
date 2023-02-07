@@ -8,10 +8,14 @@ func main()  {
 	// name = "Istiyak Amin"
 	// fmt.Println("Hello", name);
 
-	var a int = 10;
-	var b int = 20;
+	// var a int = 10;
+	// var b int = 20;
 
-	sum_result := sum(a, b)
+	var c, d int
+	fmt.Scanf("%d", &c)
+	fmt.Scanf("%d", &d)
+
+	sum_result := sum(c, d)
 	fmt.Println(sum_result);
 
 }
