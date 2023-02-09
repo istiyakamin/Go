@@ -42,4 +42,3 @@ func serial_print(num int) int {
 // SIXTH COMMIT
 // SEVENTH COMMIT
 // EIGHTH COMMIT
-// NINTH COMMIT
