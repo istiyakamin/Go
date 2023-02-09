@@ -1,4 +1,4 @@
-// Create a program that shows your name
+// Create a program that shows your address
 package main
 
 import "fmt"
