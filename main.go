@@ -36,6 +36,5 @@ func serial_print(num int) int {
 
 // lorem
 
-// lorem
 
 
