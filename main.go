@@ -33,3 +33,12 @@ func serial_print(num int) int {
 
 	return 0;
 }
+
+// lorem
+
+// lorem
+// lorem
+// lorem
+// lorem
+// lorem
+
