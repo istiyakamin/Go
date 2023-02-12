@@ -13,11 +13,11 @@ func main() {
     fmt.Println("set:", s)
     fmt.Println("get:", s[2])
 
-    // fmt.Println("len:", len(s))
+    fmt.Println("len:", len(s))
 
-    // s = append(s, "d")
-    // s = append(s, "e", "f")
-    // fmt.Println("apd:", s)
+    s = append(s, "d")
+    s = append(s, "e", "f")
+    fmt.Println("apd:", s)
 
     // c := make([]string, len(s))
     // copy(c, s)
