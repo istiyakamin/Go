@@ -26,8 +26,8 @@ func main() {
     l := s[2:5]
     fmt.Println("sl1:", l)
 
-    // l = s[:5]
-    // fmt.Println("sl2:", l)
+    l = s[:5]
+    fmt.Println("sl2:", l)
 
     // l = s[2:]
     // fmt.Println("sl3:", l)
