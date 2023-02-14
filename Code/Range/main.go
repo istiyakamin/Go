@@ -11,11 +11,11 @@ func main() {
     }
     fmt.Println("sum:", sum)
 
-    // for i, num := range nums {
-    //     if num == 3 {
-    //         fmt.Println("index:", i)
-    //     }
-    // }
+    for i, num := range nums {
+        if num == 3 {
+            fmt.Println("index:", i)
+        }
+    }
 
     // kvs := map[string]string{"a": "apple", "b": "banana"}
     // for k, v := range kvs {
