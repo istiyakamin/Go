@@ -8,9 +8,9 @@ func vals() (int, int) {
 
 func main() {
 
-    // a, b := vals()
-    // fmt.Println(a)
-    // fmt.Println(b)
+    a, b := vals()
+    fmt.Println(a)
+    fmt.Println(b)
 
     _, c := vals()
     fmt.Println(c)
