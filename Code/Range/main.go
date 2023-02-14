@@ -26,7 +26,7 @@ func main() {
         fmt.Println("key:", k)
     }
 
-    // for i, c := range "go" {
-    //     fmt.Println(i, c)
-    // }
+    for i, c := range "go" {
+        fmt.Println(i, c)
+    }
 }
