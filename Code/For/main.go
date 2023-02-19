@@ -12,7 +12,7 @@ func main() {
 		break
     }
 
-// 	for k := 0; k < 10; k++ {
+	for k := 0; k < 10; k++ {
 // 		if(k%2 == 0){
 // 			fmt.Println(k)
 // 		}
