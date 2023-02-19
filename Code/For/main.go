@@ -9,7 +9,7 @@ func main() {
 
 	for {
         fmt.Println("Ever Number:")
-// 		break
+		break
 //     }
 
 // 	for k := 0; k < 10; k++ {
