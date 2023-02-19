@@ -10,7 +10,7 @@ func main() {
 	for {
         fmt.Println("Ever Number:")
 		break
-//     }
+    }
 
 // 	for k := 0; k < 10; k++ {
 // 		if(k%2 == 0){
